@@ -1,5 +1,5 @@
 # RabbitMQ
-Der ScorpioBroker wird mti dem Messagebus RabbitMQ betrieben. Die Installation erfolgt über den Bitnami Helm Chart.
+Der ScorpioBroker wird mit dem Messagebus RabbitMQ betrieben. Die Installation erfolgt über den Bitnami Helm Chart.
 
 ## Voraussetzungen
 
